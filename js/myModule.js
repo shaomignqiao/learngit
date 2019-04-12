@@ -1,4 +1,4 @@
 export default {
   foo: 'hello',
-  bar: 'world'
+  bar: 'worldnihaohaohho'
 }
